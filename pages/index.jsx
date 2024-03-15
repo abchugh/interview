@@ -20,7 +20,7 @@ export default function Home() {
             height={24}
             priority
           />
-          Heading
+          Website
           <SampleComponent />
         </div>
         <div>
