@@ -1,6 +1,6 @@
 import { DataBlock } from '../../utils';
 
-export const SAMPLE_DATA: Record<string, DataBlock> = {
+export const MOVIE_DATA: Record<string, DataBlock> = {
     "Harry Potter": {
         content: "A young wizard's journey to defeat the dark lord.",
         created: "2001-11-16T00:00:00.000Z"

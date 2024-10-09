@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "@/styles/Home.module.css";
-import { SampleComponent } from "@/components/SampleComponent";
+import { HeaderComponent } from "@/components/HeaderComponent";
 
 export default function Home() {
   return (
@@ -21,7 +21,7 @@ export default function Home() {
             priority
           />
           Website
-          <SampleComponent />
+          <HeaderComponent />
         </div>
         <div>
           <h2>What is Lorem Ipsum?</h2>
