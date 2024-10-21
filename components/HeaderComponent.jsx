@@ -1,3 +1,3 @@
-export function HeaderComponent({ lang, setLang }) {
+export function HeaderComponent() {
   return <div>Component</div>;
 }
